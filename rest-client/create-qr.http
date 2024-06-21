@@ -1,0 +1,9 @@
+POST http://localhost/api-qr-tandem/v1/create-qr.php
+Content-Type: "application/json"
+
+{
+    "data": "Me encanta las mermaid",
+    "nombre_ref": "gustos de tsuki",
+    "description": "fotografia de los objetos mermaid",
+    "created_by":2
+}

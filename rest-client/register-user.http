@@ -1,0 +1,9 @@
+POST http://localhost/api-qr-tandem/v1/register-user.php
+Content-Type: "application/json"
+
+{
+    "nombre": "Chi Jiraf",
+    "delegacion": "El Escorial",
+    "email": "chijiraf@tandem.com",
+    "password": "012345"
+}
